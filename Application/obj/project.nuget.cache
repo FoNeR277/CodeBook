@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lN9HaF4hsb0MsH6YlzAlB7ERNRNeHg0yWIRdDVh33TIwqwIv8rLt7jZpZh3Zp+8QueBhSZcTQ67tA6qzhP3ptQ==",
+  "dgSpecHash": "FtfdEinkU6P7X75FE5Nh08bOra5mmPEYmQVx+UYTYEb7P+yfbiEhqXDkK+fRMCiQRKigIfDFpIbBtlA3/N3RYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bogos\\OneDrive\\Рабочий стол\\Новая папка\\Рабочий стол\\Projects\\CodeBook\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bogos\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\bogos\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\bogos\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\bogos\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
     "C:\\Users\\bogos\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\bogos\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
