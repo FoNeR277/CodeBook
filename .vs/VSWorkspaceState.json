@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client-app",
+    "\\client-app\\src",
+    "\\client-app\\src\\features",
+    "\\client-app\\src\\features\\activities",
+    "\\client-app\\src\\features\\activities\\Form"
+  ],
+  "SelectedNode": "\\client-app\\src\\features\\activities\\Form\\ActivityForm.tsx",
+  "PreviewInSolutionExplorer": false
+}
