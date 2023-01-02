@@ -16,13 +16,13 @@ namespace API.Extensions
             services.AddDbContext<DataContext>(option => {
                 option.UseSqlite(configuration.GetConnectionString("DefaultConnection"));
             });
-            services.AddCors(opt => {
+            services.AddCors(opt => { // to find out
                 opt.AddPolicy("CorsPolicy", policy => {
                     policy.AllowAnyMethod().AllowAnyHeader().WithOrigins("http://localhost:3000");
                 });
             });
             services.AddAutoMapper(typeof(MappingProfiles).Assembly);
-            services.AddMediatR(typeof(List.Handler)); // to find out
+            services.AddMediatR(typeof(List.Handler)); 
 
             return services;
         }
