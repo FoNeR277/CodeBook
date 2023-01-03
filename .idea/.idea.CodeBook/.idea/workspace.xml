@@ -10,34 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831a8b8f-2740-43e8-af21-547c4e38acb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeBook/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeBook/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeBook/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeBook/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-app/src/app/stores/activityStore.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-app/src/app/stores/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/router/Routes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/features/home/HomePage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeBook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Controllers/ActivitiesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Controllers/ActivitiesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Extensions/ApplicationServicesExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Extensions/ApplicationServicesExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/codebook.db" beforeDir="false" afterPath="$PROJECT_DIR$/API/codebook.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/codebook.db-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/codebook.db-wal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/bin/Debug/net7.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Application/bin/Debug/net7.0/Persistence.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/bin/Debug/net7.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Application/bin/Debug/net7.0/Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Seed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/Seed.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net7.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net7.0/Persistence.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net7.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net7.0/Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/net7.0/Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/net7.0/Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net7.0/Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net7.0/Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net7.0/Persistence.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/src/app/layout/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/app/layout/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-app/src/features/activities/Details/ActivityDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/features/activities/Details/ActivityDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/app/layout/NavBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/app/layout/NavBar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/src/features/activities/dashboard/ActivityDashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/features/activities/dashboard/ActivityDashboard.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/index.tsx" afterDir="false" />
     </list>
@@ -146,7 +132,8 @@
       <workItem from="1672613922853" duration="48000" />
       <workItem from="1672614016009" duration="3116000" />
       <workItem from="1672618467293" duration="116000" />
-      <workItem from="1672670091608" duration="1216000" />
+      <workItem from="1672670091608" duration="3038000" />
+      <workItem from="1672753035292" duration="1221000" />
     </task>
     <servers />
   </component>
