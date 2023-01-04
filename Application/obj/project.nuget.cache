@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ix92lxpiCDLWDGQVtLbeBA8PQmCeyaGplQCv7SRwku0dcKQjjBg+jhaP9+0Pm+URjpz0AgePf2UclznQXkHiKw==",
+  "dgSpecHash": "1AQE4sdoqeJCctn672Mac0zPkVrbgcv2bOGrzt4aRenmwaSA5Zm/KjLZInW3rSGZNDX+waW1Em6a42ZQgpEiQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bogos\\OneDrive\\Рабочий стол\\Новая папка\\Рабочий стол\\Projects\\CodeBook\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bogos\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\bogos\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\bogos\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\bogos\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\bogos\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\bogos\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\bogos\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\bogos\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
