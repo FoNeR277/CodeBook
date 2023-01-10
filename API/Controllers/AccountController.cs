@@ -23,7 +23,7 @@ public class AccountController : ControllerBase
     }
 
     [AllowAnonymous]
-    [HttpPost]
+    [HttpPost("login")]
     public async Task<ActionResult<UserDTO>> Login(LoginDTO loginDto)
     {
         var user = await _userManager.FindByEmailAsync(loginDto.Email);
@@ -46,10 +46,12 @@ public class AccountController : ControllerBase
     {
         if (await _userManager.Users.AnyAsync(x => x.UserName == registerDto.UserName))
         {
-            return BadRequest("Username already taken");
+            ModelState.AddModelError("username", "Username taken!");
+            return ValidationProblem(ModelState);
         }
         if (await _userManager.Users.AnyAsync(x => x.Email == registerDto.Email))
         {
+            ModelState.AddModelError("email", "Email taken!");
             return BadRequest("Email already taken");
         }
 
